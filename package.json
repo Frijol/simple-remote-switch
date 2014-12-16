@@ -1,0 +1,33 @@
+{
+  "name": "simple-remote-switch",
+  "version": "1.0.0",
+  "description": "Uses IR signal to latch/unlatch a relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/simple-remote-switch.git"
+  },
+  "keywords": [
+    "tessel",
+    "infrared",
+    "ir",
+    "relay",
+    "switch",
+    "toggle",
+    "remote"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/simple-remote-switch/issues"
+  },
+  "homepage": "https://github.com/Frijol/simple-remote-switch",
+  "dependencies": {
+    "ir-attx4": "^0.2.6",
+    "relay-mono": "^0.1.2",
+    "tesselate": "0.0.2"
+  }
+}

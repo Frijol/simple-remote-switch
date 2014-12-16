@@ -3,7 +3,7 @@ simple-remote-switch
 
 Uses IR signal to latch/unlatch a relay.
 
-Plug something into the relay (like a [flashing light](https://projects.tessel.io/projects/website-down-alarm), for instance).
+Plug something into the relay's channel 1 (like a [flashing light](https://projects.tessel.io/projects/website-down-alarm), for instance).
 
 Plug the relay into port C.
 

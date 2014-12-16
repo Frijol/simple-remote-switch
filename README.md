@@ -14,3 +14,10 @@ Upload the code, and then point any old IR remote at the IR module.
 The Tessel will toggle the relay (switch on/off) any time it receives infrared data.
 
 Ta da! You now have the simplest possible remote-controlled switch.
+
+## Materials
+
+* [Tessel](//tessel.io)
+* [Infrared Module](//tessel.io/modules#module-infrared)
+* [Relay Module](//tessel.io/modules#module-relay)
+* Infrared remote of some kind. Any should do; the code isn't looking for any particular signal.
